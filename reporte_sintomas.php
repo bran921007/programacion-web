@@ -1,0 +1,1 @@
+reporte_sintomas.php
